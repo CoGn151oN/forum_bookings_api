@@ -19,6 +19,9 @@ Setup:
 </ul>
 
 The program was created for EKKE's Computer Science BSC - Service Oriented Programming course in 2022.
-<img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/login.PNG?raw=true"><br><br>
-<img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/users.PNG?raw=true"><br><br>
+<br>
+<img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/login.PNG?raw=true">
+<br><br>
+<img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/users.PNG?raw=true">
+<br><br>
 <img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/admin.PNG?raw=true">
