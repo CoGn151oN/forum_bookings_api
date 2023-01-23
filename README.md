@@ -3,8 +3,7 @@ Forum Night Club is an imaginary venue that books live music events. The program
 <br>
 The login system utilizes a Node JS gateway to a PHP API, which communicates with the C# WinForm client through RESTful URIs.<br>
 Once logged in, users and admins utilize Node RESTful URI's through the aforementioned WinForm client.<br>
-Node API tracks changes through a CRUD counter. If the server and client counter do not match, the system autor refreshes to ensure data integrity.<br>
-Both tables support character string based searching for their respective name fields, and ID based searching. The bookings table also supports date based searching.<br>
+Node API tracks changes through a CRUD counter. If the server and client counter do not match, the system autor refreshes to ensure data integrity.nBoth tables support character string based searching for their respective name fields, and ID based searching. The bookings table also supports date based searching.<br>
 <br>
 Setup:
 <ul>
@@ -20,7 +19,7 @@ Setup:
 </ul>
 
 The program was created for EKKE's Computer Science BSC - Service Oriented Programming course in 2022.
-<br>
+<br><br>
 <img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/login.PNG?raw=true">
 <br><br>
 <img src="https://github.com/CoGn151oN/forum_bookings_api/blob/main/demo_img/users.PNG?raw=true">
