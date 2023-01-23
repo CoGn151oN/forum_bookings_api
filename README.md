@@ -1,8 +1,10 @@
 # Forum Bookings API
-Forum Night Club is an imaginary venue that books live music events. The program allows Forum employees to log in to a system to perform basic CRUD operations in an events database, where they can manage bookings based on dates. Users also have access to their own user data for username and password management. Admin users can perform CRUD operaitons with employee data, but do not have access to bookings data.<br><br>
+Forum Night Club is an imaginary venue that books live music events. The program allows Forum employees to log in to a system to perform basic CRUD operations in an events database, where they can manage bookings based on dates. Users also have access to their own user data for username and password management. Admin users can perform CRUD operaitons with employee data, but do not have access to bookings data.<br>
+<br>
 The login system utilizes a Node JS gateway to a PHP API, which communicates with the C# WinForm client through RESTful URIs.<br>
 Once logged in, users and admins utilize Node RESTful URI's through the aforementioned WinForm client.<br>
-Node API tracks changes through a CRUD counter. If the server and client counter do not match, the system autor refreshes to ensure data integrity.<br><br>
+Node API tracks changes through a CRUD counter. If the server and client counter do not match, the system autor refreshes to ensure data integrity.<br>
+<br>
 Setup:
 <ul>
   <li>download all contents of PHP API: SZOP_Beadando -> xampp/htdocs/les/SZOP_Beadando</li>
@@ -15,4 +17,5 @@ Setup:
   <li>run WinFormClient</li>
   <li>Swagger OpenAPI: http://127.0.0.1:3000/docs</li>
 </ul>
+<br>
 The program was created for EKKE's Computer Science BSC - Service Oriented Programming course in 2022.
