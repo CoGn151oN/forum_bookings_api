@@ -17,5 +17,5 @@ Setup:
   <li>run WinFormClient</li>
   <li>Swagger OpenAPI: http://127.0.0.1:3000/docs</li>
 </ul>
-<br>
+
 The program was created for EKKE's Computer Science BSC - Service Oriented Programming course in 2022.
